@@ -71,7 +71,7 @@ p
 
 
 ## OUTPUT
-/home/sec/Pictures/ex05.png
+/home/sec/Pictures/Biodata ex05.png
 
 
 ## RESULT
