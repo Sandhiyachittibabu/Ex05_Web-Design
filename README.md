@@ -70,8 +70,10 @@ p
 ~~~
 
 
-## OUTPUT
-/home/sec/Pictures/Biodata ex05.png
+OUTPUT
+##![Biodata ex05](https://github.com/Sandhiyachittibabu/Ex05_Web-Design/assets/127816323/045f9246-ef39-4049-aad1-81ae8074c98d)
+
+
 
 
 ## RESULT
